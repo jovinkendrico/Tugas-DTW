@@ -1,0 +1,32 @@
+h1,h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: purple;
+    text-align: center;
+    text-shadow: 2px 2px 1px rgba(150, 150, 150, 1);
+}
+h2{
+    letter-spacing: 0.7em;
+    word-spacing: 0.9em;
+    
+}
+.brown{
+    color: brown;
+}
+.smallcaps{
+    font-variant: small-caps;
+    text-shadow: 2px 2px 1px rgba(150, 150, 150, 1);
+}
+.indent{
+    text-indent: 20px;
+}
+footer{
+    text-align: center;
+    font-style: italic;
+}
+.shadow{
+    text-shadow: 1px 1px 1px rgba(150, 150, 150, 1);
+}
+
+.tengah{
+    text-align: center;
+}
